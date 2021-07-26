@@ -25,12 +25,12 @@ Check it yourself [Here](https://api-zeeoneofc.herokuapp.com)
 ## Cara Ganti ApiKey Gimana?
 Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
 ```js
-if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikeyInput != 'Acill12') return res.json(loghandler.invalidKey)
 ```
 Atau
 
 ```js
-if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikey != 'Acill12') return res.json(loghandler.invalidKey)
 ```
 <h1 align="center"> Cara Deploy Ada Di YouTube Saya
 <p align="center">
